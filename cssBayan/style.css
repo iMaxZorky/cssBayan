@@ -81,7 +81,7 @@ h2 {
 }
 
 @media (max-width: 820px) {
-  .radio-input:checked +  .accordition-item > .accordition-button > .accordition-title > .cross-icon {
+  .cross-icon {
     opacity: 1;
   }
 }
